@@ -1,0 +1,1 @@
+## This is an ML Classification Model which takes inputs from the user and detects if the user will default on their credit card bill payment or not 

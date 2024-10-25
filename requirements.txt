@@ -1,0 +1,10 @@
+pandas
+numpy
+ydata-profiling
+matplotlib
+seaborn
+scikit-learn
+pydantic
+visions
+numba
+gradio
